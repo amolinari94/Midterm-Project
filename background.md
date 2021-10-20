@@ -4,7 +4,7 @@
 
 ![photography example](https://500px.com/photo/307273697/approaching-storm-by-alex-molinari)
 
-![photography example 2]()
+![photography example 2](https://github.com/amolinari94/Midterm-Project/issues/1#issue-1031855642)
 
 
 
