@@ -3,7 +3,7 @@ INFOTC1000 midterm project
 
 1. homepage
 2. [Background](background.md)
-3. [Personal Goals](personal_goals.md)
+3. [Personal Goals](Personal_Goals.md)
 
 ## Student Introduction
 ### Programming Experience
