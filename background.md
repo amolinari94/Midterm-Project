@@ -18,4 +18,4 @@
 6. Photography
 
 
-  An example of my work can be seen [here](https://vimeo.com/557286861)
+  An example of my production work can be seen [here](https://vimeo.com/557286861)
