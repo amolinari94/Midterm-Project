@@ -1,6 +1,6 @@
 # Background
 
-### Before discovering an interest in coding, I spent 5 years working in Digital Media Production
+### Before discovering an interest in coding, I spent 5 years working in _Digital Media Production_
 
 ![photography example](https://500px.com/photo/307273697/approaching-storm-by-alex-molinari)
 
