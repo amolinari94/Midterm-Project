@@ -1,5 +1,11 @@
 # Personal Goals
 
+1. [Homepage](README.md)
+2. [Background](background.md)
+3. [Personal Goals]
+4. [Interests in IT](interests_in_IT.md)
+5. [Conclusion](conclusion.md)
+
 ### My Goals Span a Range of Subjects and Industries
 
 As someone with many hobbies, I see information technology and software programming as a way to pursue one of my interests in a sustainable way.  My other interests include media production, music production and writing.
