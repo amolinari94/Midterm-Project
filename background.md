@@ -1,5 +1,11 @@
 # Background
 
+1. [Homepage](README.md)
+2. [Background](background.md)
+3. [Personal Goals](Personal_Goals.md)
+4. [Interests in IT](interests_in_IT.md)
+5. [Conclusion](conclusion.md)
+
 ### Before discovering an interest in coding, I spent 5 years working in _Digital Media Production_
 
 ![photography example](https://500px.com/photo/307273697/approaching-storm-by-alex-molinari)
