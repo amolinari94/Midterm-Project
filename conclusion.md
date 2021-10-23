@@ -10,10 +10,10 @@
 
 ## this is a sorting algorithm for python (_not a very good one_)
 
-def sort_list(random_list):
-    sorted_list = []
-    for num in range(min(random_list), (max(random_list) + 1)):
-        if num in random_list:
-            sorted_list.append(num)
-    random_list = sorted_list
-    print(random_list)
+def sort_list(random_list):  
+&nbsp;&nbsp;sorted_list = []  
+&nbsp;&nbsp;for num in range(min(random_list), (max(random_list) + 1)):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if num in random_list:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorted_list.append(num)  
+&nbsp;&nbsp;random_list = sorted_list  
+&nbsp;&nbsp;print(random_list)
